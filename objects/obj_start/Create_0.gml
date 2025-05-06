@@ -1,0 +1,1 @@
+pulse_timer = 0
